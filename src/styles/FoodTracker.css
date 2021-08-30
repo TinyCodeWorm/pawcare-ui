@@ -1,0 +1,47 @@
+.food-tracker {
+    width: 75%;
+    span: 16;
+    margin: 0 auto;
+}
+
+.food-tracker-title {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.add-food-bar {
+    width: 300px;
+    margin-top: 300px;
+    margin-bottom: 20px;
+    display:inline;
+}
+
+.food-tracker-table {
+    margin-top: 20px;
+}
+
+.food-tracker-table-column {
+    font-size: 16px;
+}
+
+.add-save-btn {
+    margin-top: 20px;
+    float: right;
+}
+
+
+.editable-cell {
+    position: relative;
+}
+
+.editable-cell-value-wrap {
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+.editable-row:hover .editable-cell-value-wrap {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    padding: 4px 11px;
+}

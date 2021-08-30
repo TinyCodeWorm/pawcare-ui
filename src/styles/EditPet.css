@@ -1,0 +1,33 @@
+.pet-icon {
+    height: 20px;
+}
+
+.name-input {
+    width: 150px;
+}
+
+.upload-photo {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.age {
+    float: left;
+}
+
+.edit-btn {
+    margin-right: 10px;
+}
+
+.delete-btn {
+    color: crimson;
+}
+
+.pet-photo {
+    text-align: center;
+}
+
+.change-photo-text {
+    margin-top: 15px;
+}

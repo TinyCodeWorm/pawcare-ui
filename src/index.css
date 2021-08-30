@@ -1,0 +1,11 @@
+@import "~antd/dist/antd.css";
+@import "./styles/App.css";
+@import "./styles/Main.css";
+@import "./styles/Header.css";
+@import "./styles/AddPet.css";
+@import "./styles/SignIn.css";
+@import "./styles/SignUp.css";
+@import "./styles/ReactionTracker.css";
+@import "./styles/FoodTracker.css";
+@import "./styles/EditPet.css";
+@import "./styles/MyProfile.css";
